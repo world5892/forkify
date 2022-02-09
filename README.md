@@ -1,3 +1,3 @@
 # Forkify
 
-Recipe application with custom recipe uploads.
+A recipe app with custom recipe uploads.
